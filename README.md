@@ -1,3 +1,3 @@
 # Vodafone-Clone
-Vodafone Clone Swift
+Vodafone Clone  App buil with Swift and SwiftUI
 
